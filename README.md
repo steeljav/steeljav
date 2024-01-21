@@ -1,10 +1,9 @@
 An electrical engineer that sometimes has to develop software
 
 - Proficiencies: C, R, matlab, python, java
-- Preference: C
-  
-Public key:
-> ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCn0W4NaPBw0cVIm0s2i4KmlMLgO7AGlEq/PZHuA5BTIvRDdyyEYaxwtFu+RR3JV9Xs76cUftGDe+9bz/vTMrAR5QzzUglE5pcand5wDvMuTDohVKKnvyqGWKPLrnA0PFFBTiEqqu6PJD7Go6cuMvJSEN1AzrpYaduYiUWGcYEwNvdibzvDXV3bldebAgsP0WUi8pEy2VpDAixURf9CKUyovS1w4KgSW8HkVEs6JVktzfsAwvhqHUfxgQpW1k58psKm6RHLWBRN9+VjxdtQeTDkclk3BR2WbTesIIyCt3Un+c9udFBTbJiUXT/ez4KFH58IHdioHEO/w+61SBJ6w5z9
+- Preference: systems development in C
+- 🔭 I’m currently working on: numerical optimization using python, EAF control in C
+
 
 <!--
 **steeljav/steeljav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
