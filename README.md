@@ -1,9 +1,13 @@
 An electrical engineer that sometimes has to develop software
 
-- Proficiencies: C, R, matlab, python, java
+# Languages
+<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg" width=30> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg" width=30> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.svg" width=30> <img src="https://www.r-project.org/Rlogo.png" width=30> Matlab
+
 - Preference: systems development in C
 - 🔭 I’m currently working on: numerical optimization using python, EAF control in C
 
+# Stuff I Use
+Pycharm, Intelij, CLion, vim, Postgres, SQLite, MacBook, FreeBSD, Linux
 
 <!--
 **steeljav/steeljav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
