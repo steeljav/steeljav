@@ -1,5 +1,5 @@
 # About
-I'm an electrical engineer by education but worked as a software engineer for a few years and have gotten a lot of mileage out of the experience. I have developed the following:
+I'm an electrical engineer by education but worked as a software engineer for a few years and have gotten a lot of mileage out of the experience. Lately I have developed the following:
 
 - A three-phase electric arc furnace (EAF) model and simulation that incorporates the power supply from the transmission through the arcs. It is capable of calculating all electrical parameters of interest for all EAF operating conditions. This was originally developed using VBA and Excel in order to share with customers, but has been converted to python.
 - A java program to continuously read measurements from industrial PLCs and upload to AWS S3.
